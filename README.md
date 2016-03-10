@@ -4,3 +4,5 @@
 -stav praktickej časti: 25%
 
 Termín odovzdania: _____________________
+
+Zmena spravená v remote repoztari
