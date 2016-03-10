@@ -5,4 +5,4 @@
 
 Termín odovzdania: _____________________
 
-Zmena spravená lokálne
+Zmena spravená lokálne je ta prava
