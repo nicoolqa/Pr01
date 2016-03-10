@@ -1,2 +1,2 @@
 # Moja najobľúbenejšia záverečná práca
-## Bakalárska práca - Súčastné trendy v oblasti reklamy
+## Bakalárska práca - Súčasné trendy v oblasti reklamy
