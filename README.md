@@ -1,2 +1,4 @@
-# Moja najobľúbenejšia záverečná práca
+﻿# Moja najobľúbenejšia záverečná práca
 ## Bakalárska práca - Súčasné trendy v oblasti reklamy
+- stav teoretickej časti: 50%
+-stav praktickej časti: 25%
